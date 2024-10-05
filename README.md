@@ -18,12 +18,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
+<p align="center">
 **Bioinformatician | Data Scientist | Researcher**
 
 Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**, **machine learning & AI**, and **systems biology** to solve complex biological questions. With a background in computational analysis and extensive hands-on experience in both **wet lab** and **data analysis**, I specialize in multi-omics data integration, NGS, and the development of pipelines for large-scale bioinformatics projects.
-
+</p>
 ---
 
 
