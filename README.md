@@ -39,15 +39,10 @@ Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" **alt="Rs" width="40" height="40"/>&nbsp;
-</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" **alt="SPSS" width="40" height="40"/>&nbsp;
-</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" **alt="SSH" width="40" height="40"/>&nbsp;
-</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" **alt="Streamlit" width="40" height="40"/>&nbsp;
-</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
 </p>
 
