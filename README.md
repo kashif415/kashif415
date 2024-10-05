@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFjcnhkMTA1aHE2NGp6eW1oZ3RibnZpYmVmMnRzcmh3Nmhvc3hrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
+https://img.shields.io/badge/LinkedIn-blue
 
 # Hi, I'm Kashif Saleem 👋  
 **Bioinformatician | Data Scientist | Researcher**
