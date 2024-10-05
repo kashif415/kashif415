@@ -18,17 +18,26 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
+
 **Bioinformatician | Data Scientist | Researcher**
 
 Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**, **machine learning & AI**, and **systems biology** to solve complex biological questions. With a background in computational analysis and extensive hands-on experience in both **wet lab** and **data analysis**, I specialize in multi-omics data integration, NGS, and the development of pipelines for large-scale bioinformatics projects.
 
-### :woman_technologist: &nbsp;About Me :
+---
+
+
+### &nbsp;About Me :
 
 
 - **MS in Bioinformatics** from the National University of Sciences and Technology (NUST), Islamabad.  
 - Focused on **computational biology**, using **sequencing**, **machine learning**, and **systems biology** approaches to address health-related challenges.  
 - Co-founder and **COO of Bioinfocamp**, an educational initiative aimed at bioinformatics training.  
 - Experience as a **Bioinformatics Analysis Expert** with global institutions like the University of Sydney and MERtech.
+
+
+---
+
 
   ### 🛠 &nbsp;Languages and Tools :
 
@@ -82,7 +91,6 @@ I have contributed to research in **SLE**, **COVID-19**, **Parkinson’s Disease
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
