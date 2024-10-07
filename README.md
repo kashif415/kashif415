@@ -19,7 +19,7 @@
 <p align="center">
 <b>Bioinformatician | Data Scientist | Researcher</b>
 
-Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**, **machine learning & AI**, and **systems biology** to solve complex biological questions. With a background in computational analysis and extensive hands-on experience in both **wet lab** and **data analysis**, I specialize in multi-omics data integration, NGS, and the development of pipelines for large-scale bioinformatics projects.
+Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**, **machine learning**, and **systems biology** to solve complex biological questions. With a background in computational analysis and extensive hands-on experience in both **wet lab** and **data analysis**, I specialize in multi-omics data integration, NGS, and the development of pipelines for large-scale bioinformatics projects.
 </p>
 
 ---
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**
 
 - **MS in Bioinformatics** from the National University of Sciences and Technology (NUST), Islamabad.  
 - Focused on **computational biology**, using **sequencing**, **machine learning**, and **systems biology** approaches to address health-related challenges.  
-- Co-founder and **COO of Bioinfocamp**, an educational initiative aimed at bioinformatics training.  
+- Co-founder and **COO of Bioinfocamp**, an educational initiative aimed at bioinformatics training and services.  
 - Experience as a **Bioinformatics Analysis Expert** with global institutions like the University of Sydney and MERtech.
 
 
