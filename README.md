@@ -1,5 +1,12 @@
 
 
+
+
+
+<h1 align="center">
+  Hi, I'm Kashif Saleem
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/kashif-saleem-80653a178">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,13 +16,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-
-
-<h1 align="center">
-  Hi, I'm Kashif Saleem
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <p align="center">
 <b>Bioinformatician | Data Scientist | Researcher</b>
 
