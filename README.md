@@ -95,9 +95,6 @@ I have contributed to research in **SLE**, **COVID-19**, **Parkinson’s Disease
   <a href="https://www.instagram.com/mahar.kashi.37/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://github.com/kashif415" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
 	
 </p>
 
