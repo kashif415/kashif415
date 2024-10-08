@@ -87,8 +87,19 @@ I have contributed to research in **SLE**, **COVID-19**, **Parkinson’s Disease
 
 ## Let’s Connect  
 📧 Email: [kashifsaleemnust@gmail.com](mailto:kashifsaleemnust@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/kashif-saleem](https://www.linkedin.com/in/kashif-saleem-80653a178)  
-🔗 GitHub: [github.com/kashif415](https://github.com/kashif415)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kashif-saleem-80653a178" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mahar.kashi.37/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+ <a href="https://github.com/kashif415" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+	
+</p>
 
 ---
 
