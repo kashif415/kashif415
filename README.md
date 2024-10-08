@@ -64,18 +64,13 @@ Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**
 ---
 
 ## Expertise  
-- **NGS Data Analysis** (RNA-seq, Single Cell, ATAC-seq, Spatial Transcriptomics)  
+- **NGS Data Analysis** (RNA-seq, Single Cell, ATAC-seq, Spatial Transcriptomics and more)  
 - **Metagenomics** & **Proteomics**  
 - **Machine Learning** & **Deep Learning**  
 - **Cloud Computing** (AWS/Azure) and **Workflow Management** (Nextflow, Snakemake)  
 - **Protein Interactions**, **Molecular Docking**, and **MD Simulations**  
 - Development of **reproducible bioinformatics pipelines** with Docker/Singularity
-
-## Tools & Technologies  
-- **Languages**: R, Python, Bash, HTML, CSS  
-- **Technologies**: Linux, Docker, Singularity, Nextflow  
-- **Data Analysis**: SPSS, Minitab, Statistical Programming  
-- **Web Development**: Bioinformatics Web Applications
+- **Bioinformatics Web Applications** Developmet
 
 ## Current Projects  
 1. **Antibody Design for HPV** using Single Cell Analysis and Machine Learning.
