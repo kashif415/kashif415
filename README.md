@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**
 I have contributed to research in **SLE**, **COVID-19**, **Parkinson’s Disease**, and **hematological malignancies**, with articles published to high-impact journals like *Journal of Biomolecular Structure and Dynamics* and *Critical Reviews in Oncology/Hematology*. You can find more on [https://github.com/kashif415]
 
 ## Let’s Connect  
-📧 Email: [kashifsaleemnust@gmail.com](mailto:kashifsaleemnust@gmail.com)  
+📧 Email: [kashif.slm10@gmail.com](mailto:kashif.slm10@gmail.com)  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kashif-saleem-80653a178" target="blank"><img align="center"
