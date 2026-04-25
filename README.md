@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging **bioinformatics**
 4. **Multi-omics integration** to explore genetic disorders and cancer biomarkers.
 
 ## Publications & Research  
-I have contributed to research in **SLE**, **COVID-19**, **Parkinson’s Disease**, and **hematological malignancies**, with articles submitted to high-impact journals like *Journal of Biomolecular Structure and Dynamics* and *Critical Reviews in Oncology/Hematology*.
+I have contributed to research in **SLE**, **COVID-19**, **Parkinson’s Disease**, and **hematological malignancies**, with articles published to high-impact journals like *Journal of Biomolecular Structure and Dynamics* and *Critical Reviews in Oncology/Hematology*. You can find more on [https://github.com/kashif415]
 
 ## Let’s Connect  
 📧 Email: [kashifsaleemnust@gmail.com](mailto:kashifsaleemnust@gmail.com)  
